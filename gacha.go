@@ -1,4 +1,4 @@
-package main
+package gacha
 
 import (
 	"math/rand"

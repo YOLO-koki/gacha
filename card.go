@@ -1,4 +1,4 @@
-package main
+package gacha
 
 type Rarity string
 
