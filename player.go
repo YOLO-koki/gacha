@@ -1,4 +1,4 @@
-package gacha
+package main
 
 import "fmt"
 
@@ -18,7 +18,6 @@ func (p *Player) DrawableNum() int {
 }
 
 func (p *Player) draw(n int) {
-
 	if p.DrawableNum() < n {
 		fmt.Println("ガチャ券またはコインが不足しています")
 		return
