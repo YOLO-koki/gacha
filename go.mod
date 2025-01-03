@@ -1,3 +1,3 @@
-module github.com/YOLO-koki/gacha
+module gacha
 
 go 1.23.1
